@@ -1,7 +1,4 @@
-Thanks! Here's an updated version of the **README** with details about the two types of landmarks, including your custom ArUco tag generation:
-
----
-
+# ERC25 remote simulation
 ## Mind Cloud Adaptation for GZ Sim Harmonic and ERC25 Remote Extension
 
 This repository provides a customized and simplified Mars Yard environment adapted for use with **Gazebo Sim Harmonic** and **ROS 2 Jazzy**. It is based on the original model provided [here](https://drive.google.com/drive/folders/1kvJ4vRcukgJdDpJXkft8xSptM3QwUmzl), which we cleaned and reduced from **over 3 million** faces to approximately **300,000** to improve performance.  
