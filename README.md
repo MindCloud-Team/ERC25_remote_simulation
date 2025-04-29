@@ -19,7 +19,7 @@ This repository provides a customized and simplified Mars Yard environment adapt
 
 ### Installation & Setup
 
-1. **First**, follow the instructions and install the base package from:  
+1. **First**, follow the instructions and install the base package from (We used ros2-devel branch):  
    👉 https://github.com/husarion/husarion_ugv_ros
 
 2. **Then**, download the customized Mars Yard simulation files from:  
